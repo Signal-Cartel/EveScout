@@ -9,6 +9,12 @@ This repository is used as the issue tracker for the EvE-Scout/Signal Cartel The
 
 You can find us on [Discord](https://discord.gg/TJhSfMJYZe)
 
+## Public API Endpoints
+* `/v2/public/systems` - get systems, J- and K-Space
+* `/v2/public/wormholes` - get static wormhole data
+* `/v2/public/signatures` - get signatures for Turnur or Thera;
+  on the staging environment with randomly generated examples, if requested
+
 ## Staging / Testing System
 
 * API documentation: https://esapi.ultramega.info/ui/
